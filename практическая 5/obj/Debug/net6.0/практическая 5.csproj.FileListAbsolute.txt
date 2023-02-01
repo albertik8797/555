@@ -1,0 +1,10 @@
+C:/Users/Луси/source/repos/практическая 5/практическая 5/obj/Debug/net6.0/практическая 5.csproj.AssemblyReference.cache
+C:/Users/Луси/source/repos/практическая 5/практическая 5/obj/Debug/net6.0/практическая 5.GeneratedMSBuildEditorConfig.editorconfig
+C:/Users/Луси/source/repos/практическая 5/практическая 5/obj/Debug/net6.0/практическая 5.AssemblyInfoInputs.cache
+C:/Users/Луси/source/repos/практическая 5/практическая 5/obj/Debug/net6.0/практическая 5.AssemblyInfo.cs
+C:/Users/Луси/source/repos/практическая 5/практическая 5/obj/Debug/net6.0/практическая 5.csproj.CoreCompileInputs.cache
+/Users/albertselev/Downloads/Tortiki-main/практическая 5/obj/Debug/net6.0/практическая 5.csproj.AssemblyReference.cache
+/Users/albertselev/Downloads/Tortiki-main/практическая 5/obj/Debug/net6.0/практическая 5.GeneratedMSBuildEditorConfig.editorconfig
+/Users/albertselev/Downloads/Tortiki-main/практическая 5/obj/Debug/net6.0/практическая 5.AssemblyInfoInputs.cache
+/Users/albertselev/Downloads/Tortiki-main/практическая 5/obj/Debug/net6.0/практическая 5.AssemblyInfo.cs
+/Users/albertselev/Downloads/Tortiki-main/практическая 5/obj/Debug/net6.0/практическая 5.csproj.CoreCompileInputs.cache
